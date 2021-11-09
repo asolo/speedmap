@@ -1,0 +1,5 @@
+{"timestamp": 10000, "stopId": "1234", "pingType": "DEPARTURE", "distanceFromStop": 0.0}
+{"timestamp": 35000, "stopId": "1234", "pingType": "ARRIVAL", "distanceFromStop": 75.0}
+{"timestamp": 40000, "stopId": "5678", "pingType": "DEPARTURE", "distanceFromStop": 0.0}
+{"timestamp": 65000, "stopId": "5678", "pingType": "MIDPATH", "distanceFromStop": 75.0}
+{"timestamp": 90000, "stopId": "5678", "pingType": "ARRIVAL", "distanceFromStop": 100.0}
